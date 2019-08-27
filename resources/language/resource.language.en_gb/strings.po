@@ -1,0 +1,13 @@
+# Kodi Media Center language file
+# Addon Name: Tag Quick Editor
+# Addon id: script.tagQuickEditor
+msgid ""
+msgstr ""
+
+msgctxt "#32000"
+msgid "Tags"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Select Tags"
+msgstr ""
